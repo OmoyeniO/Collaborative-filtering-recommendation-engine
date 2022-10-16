@@ -6,7 +6,7 @@
 
 </p>
 
-Within Collaborative Filtering, there are two main branches:
+## Within Collaborative Filtering, there are two main branches:
 
 * Model-Based Collaborative Filtering
 * Neighborhood Based Collaborative Filtering
