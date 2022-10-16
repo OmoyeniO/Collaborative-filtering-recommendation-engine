@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="CF.png" width ='800'> 
+  <img src="CF.png" width ='700'> 
 
 </p>
 
